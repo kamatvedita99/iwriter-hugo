@@ -3,12 +3,8 @@ date: 2023-03-11T18:30:00+00:00
 title: 'Making a Difference with Code: A Passion for Technology and Impact'
 image: images/blog/01.jpg
 categories:
-- coding
-- finance
 - software
-- productivity
-- data
-- introduction
+- technology
 
 ---
 Hello World!
