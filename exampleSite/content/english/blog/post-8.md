@@ -1,5 +1,5 @@
 ---
-date: 2021-10-01
+date: 2023-03-11T18:30:00+00:00
 title: 'Making a Difference with Code: A Passion for Technology and Impact'
 image: images/blog/01.jpg
 categories:
