@@ -1,48 +1,15 @@
 ---
-title: "About"
-image: "images/about.jpg"
-description: "this is meta description"
-layout: "about"
-button: "read more"
-draft: false
+title: About
+image: ''
+description: this is meta description
+layout: about
+button: read more
+
 ---
+## Hi, I’m Vedita Kamat
 
-## Hi,I’m Linda McCoy Specilized In Blog Writing And Collecting
+As an Associate Software Engineer at Indus Valley Partners, I have a passion for solving business problems and creating innovative solutions. With a background in both finance and coding, I am able to approach challenges from multiple perspectives and find the most effective solutions.
 
-Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level
-overviews. Iterative approaches to corporate strategy foster collaborative thinking to
-further the overall value proposition. Organically grow the holistic world view of
-disruptive innovation via workplace diversity and empowerment. 
+In addition to my technical skills, I am also a productivity enthusiast who enjoys exploring tools and ideas that can help me optimize my work and personal life. I am an avid reader and am constantly seeking out new knowledge and insights to improve my craft.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of
-the day, going forward, a new normal that has evolved from generation X is on the
-runway heading towards a streamlined cloud solution. User generated content in real-time
-will have multiple touchpoints for offshoring.
-
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize
-scalable metrics whereas proactive e-services. Seamlessly empower fully researched
-growth strategies and interoperable internal or “organic” sources.
-
-### Our Skill
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt
-ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et
-accusam et justo duo dolores et ea rebum.
-
-  * Poutine drinking vinegar bitters.
-  * Literally cred narwhal bitters wayfarers.
-  * justo duo dolores et ea rebum.
-
-{{< button "Read More" "#!" >}}
-
-
-
-### Youtube
-{{< youtube g3-VxLQO7do >}}
-
-Credibly reintermediate backend ideas for cross-platform models. Continually
-reintermediate integrated processes through technically sound intellectual capital.
-Holistically foster superior methodologies without market-driven best practices.
-
-Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-
-business applications through revolutionary catalysts for change. Seamlessly underwhelm
-optimal testing procedures whereas bricks-and-clicks processes.
+As a passionate data science enthusiast, I believe that data-driven insights can be incredibly powerful in driving positive change. I am excited about the potential for data science to revolutionize industries and improve people's lives. I see my role as a software engineer as having great power and responsibility, and I am committed to using my skills to make a difference in the world.
