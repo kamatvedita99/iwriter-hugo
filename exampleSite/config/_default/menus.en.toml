@@ -1,38 +1,24 @@
-############# English navigation ##############
-
-# main menu
 [[main]]
 name = "Home"
 url = ""
 weight = 1
-
 [[main]]
 name = "About"
 url = "about/"
 weight = 2
-
 [[main]]
 name = "Contact"
 url = "contact/"
 weight = 3
-
-
 [[main]]
-name = "Element"
-url = "element/"
-weight = 4
-
-[[main]]
-weight = 5
-name = "Pages"
 hasChildren = true
-
+name = "Pages"
+weight = 5
 [[main]]
-parent = "Pages"
 name = "Blog Details"
-url = "blog/post-1/"
-
-[[main]]
 parent = "Pages"
+url = "blog/post-1/"
+[[main]]
 name = "Category"
+parent = "Pages"
 url = "categories/travel"
