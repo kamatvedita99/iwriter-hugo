@@ -13,4 +13,4 @@ weight = 3
 [[main]]
 name = "Blog"
 weight = 4
-url = "categories/travel"
+url = "categories/software"
