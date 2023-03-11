@@ -8,6 +8,5 @@ banner:
     enable: true
     label: Contact Me
     link: contact/
-draft: true
 
 ---
