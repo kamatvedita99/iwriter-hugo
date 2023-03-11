@@ -6,7 +6,8 @@ banner:
   image: images/banner.jpg
   button:
     enable: true
-    label: get a quote
+    label: Contact Me
     link: contact/
+draft: true
 
 ---
