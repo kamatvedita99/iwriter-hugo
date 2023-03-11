@@ -7,6 +7,9 @@
 <section class="section bg-white">
   <div class="container">
     <div class="row section pt-0">
+      <div class="col-12 col-lg-9 mx-auto">
+        {{ partial "image.html" (dict "Src" .Params.image "Class" "mb-5 rounded w-100" )}}
+        <div class="mb-4">
           <h1 class="h2 fw-light mb-3">{{.Title}}</h1>
           <div class="d-flex">
             <span>{{ time.Format ":date_long" .PublishDate }}</span>
