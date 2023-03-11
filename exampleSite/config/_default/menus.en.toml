@@ -11,14 +11,6 @@ name = "Contact"
 url = "contact/"
 weight = 3
 [[main]]
-hasChildren = true
-name = "Pages"
-weight = 5
-[[main]]
-name = "Blog Details"
-parent = "Pages"
-url = "blog/post-1/"
-[[main]]
-name = "Category"
-parent = "Pages"
+name = "Blog"
+weight = 4
 url = "categories/travel"

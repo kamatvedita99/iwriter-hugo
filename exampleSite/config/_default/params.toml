@@ -1,14 +1,14 @@
 #################### default parameters ################################
 # favicon
-favicon = "images/favicon.png"
+#favicon = "images/favicon.png"
 # logo
-logo = "images/logo.png"
-logo_dark = "images/logo-white.png"
+#logo = "images/logo.png"
+#logo_dark = "images/logo-white.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "120px"
 # logo text will only show when logo is missing.
-logo_text = "iWriter"
+#logo_text = "VCode"
 
 # navbar fixed to top
 navbar_fixed = true
@@ -84,31 +84,31 @@ sidebar = ["search", "categories", "recent-post", "social"]
 
 ############################# social site ########################
 [[social]]
-title = "facebook"
-icon = "fab fa-facebook" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+title = "medium"
+icon = "fab fa-medium" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://medium.com/@kamatvedita99"
 
 [[social]]
 title = "twitter"
 icon = "fab fa-twitter" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://twitter.com/kamatvedita99/"
 
 [[social]]
-title = "mastodon"
-icon = "fab fa-mastodon" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+title = "reddit"
+icon = "fab fa-reddit" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://www.reddit.com/user/Adventurous_Dig_1409"
 
 [[social]]
-title = "instagram"
-icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+title = "stack overflow"
+icon = "fab fa-stack-overflow" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://stackoverflow.com/users/13835759/vedita-kamat"
 
 [[social]]
 title = "github"
-icon = "fab fa-pinterest" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://github.com/kamatvedita99/"
 
 [[social]]
 title = "linkedin"
 icon = "fab fa-youtube" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://in.linkedin.com/in/vedita-kamat-38465215b"
