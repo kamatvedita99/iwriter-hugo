@@ -3,7 +3,7 @@ title: About
 image: ''
 description: this is meta description
 layout: about
-button: read more
+button: ''
 
 ---
 ## Hi, I’m Vedita Kamat
